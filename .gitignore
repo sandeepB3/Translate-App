@@ -11,6 +11,8 @@ npm-debug.*
 web-build/
 npm-debug.log
 /*.env
+.expo-shared/
+.gitignore/
 
 # macOS
 .DS_Store
