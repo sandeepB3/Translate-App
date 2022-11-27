@@ -80,7 +80,7 @@ Start the server
 
 
 ## Screenshots
-![WhatsApp Image 2022-11-27 at 2 46 47 PM](https://user-images.githubusercontent.com/107111616/204127789-3c96ece2-505b-4d3e-821e-81d0200b205d.jpeg)
+|![WhatsApp Image 2022-11-27 at 2 46 47 PM](https://user-images.githubusercontent.com/107111616/204127789-3c96ece2-505b-4d3e-821e-81d0200b205d.jpeg)| ![WhatsApp Image 2022-11-27 at 2 46 48 PM (1)](https://user-images.githubusercontent.com/107111616/204127836-32efbd73-0fa4-48ea-b230-2066bcc6a2ee.jpeg) |
 
 
 
