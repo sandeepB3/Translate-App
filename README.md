@@ -1,10 +1,8 @@
 # Translate App
-
 React Native app to translate text conversations, supporting 110+ languages with text-to-speech feature. (Implementing speech-to-text feature as well).
 
 
 ## Features
-
 - Supports translation between any pair of 110+ languages
 - Supports accessibility feature - Text-to-Speech
 - Helpful tool to learn new languages.
@@ -82,8 +80,7 @@ Start the server
 
 
 ## Screenshots
-
-![Simulator Screen Shot - iPhone 13](https://user-images.githubusercontent.com/107111616/204127329-372a7efb-648a-454e-b858-89de85d95366.png) ![Simulator Screen Shot - iPhone 13 - 2](https://user-images.githubusercontent.com/107111616/204127365-49ce23f0-e80c-4dc5-a07d-e88e9710eb21.png) ![Simulator Screen Shot - iPhone 13 - 3](https://user-images.githubusercontent.com/107111616/204127382-7a75c857-dd9a-4f04-8bdc-996d452d0d6e.png)
+![Simulator Screen Shot - iPhone 13 - 2022-11-27 at 14 33 33](https://user-images.githubusercontent.com/107111616/204127550-33a7d153-6dc1-41ed-b7fc-a58e5222501f.png)
 
 
 
