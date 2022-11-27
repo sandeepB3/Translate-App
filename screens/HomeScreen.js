@@ -58,7 +58,7 @@ export default function HomeScreen(props) {
       setLanguageFrom(params.languageFrom)
     }
 
-  },[params.languageTo, params.languageFrom])
+  },[params.languageTo, params.languageFrm])
 
   const voiceToText = useCallback(async ()=>{
     //TO DO
