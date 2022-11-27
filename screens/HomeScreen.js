@@ -31,7 +31,7 @@ function loadData(){
       }
 
     } catch (error) {
-      console.log(error)
+      console.lg(error)
     }
   }
 }
