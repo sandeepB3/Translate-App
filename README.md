@@ -80,7 +80,8 @@ Start the server
 
 
 ## Screenshots
-![Simulator Screen Shot - iPhone 13 - 2022-11-27 at 14 33 33](https://user-images.githubusercontent.com/107111616/204127550-33a7d153-6dc1-41ed-b7fc-a58e5222501f.png)
+![WhatsApp Image 2022-11-27 at 2 46 47 PM](https://user-images.githubusercontent.com/107111616/204127695-d7a9cdf7-9a17-43f2-872d-d8e73aca5540.jpeg)
+
 
 
 
